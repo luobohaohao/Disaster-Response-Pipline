@@ -18,6 +18,8 @@ In Udacity Data Scientist course, I've learned and built on my data engineering 
 7.Others:sys
 
 # Folder Structure
+![image](https://user-images.githubusercontent.com/30916036/137124737-806a2b6c-bbc4-4738-916c-cc352efee9d3.png)
+
 - app
 | - template
 | |- master.html  # main page of the web application
