@@ -2,7 +2,7 @@
 # Table of Contents
 [Project overview](https://github.com/luobohaohao/Disaster-Response-Pipline/blob/main/README.md#dependencies)
 
-Dependencies(#dependencies)
+[Dependencies](#dependencies)
 
 Folder Structure(#Folder Structure)
 
