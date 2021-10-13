@@ -4,11 +4,13 @@
 
 [Dependencies](#dependencies)
 
-[Folder Structure](#folder Structure)
+[Folder Structure](#folder-structure)
 
-[Execution Results](#Execution Results)
+[Instructions](#instructions)
 
-[Model Evaluation](#Model Evaluation)
+[Execution Results](#execution-results)
+
+[Model Evaluation](#model-evaluation)
 
 # Project overview
 In Udacity Data Scientist course, I've learned and built on my data engineering skills. In this project, I'll apply these skills to analyze disaster data from Figure Eight to build a model to classify disaster messages.These data all downloaded from workspace in Udacity data scientist course.All the steps I tried to follow the project specification:
