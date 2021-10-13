@@ -20,22 +20,6 @@ In Udacity Data Scientist course, I've learned and built on my data engineering 
 # Folder Structure
 ![image](https://user-images.githubusercontent.com/30916036/137124737-806a2b6c-bbc4-4738-916c-cc352efee9d3.png)
 
-- app
-| - template
-| |- master.html  # main page of the web application
-| |- go.html  # classification result page of the web application
-|- run.py  # script for running the web application using Flask
-
-- data
-|- disaster_categories.csv  # messages categories dataset usesd for training the model
-|- disaster_messages.csv  # messages dataset used for training the model
-|- process_data.py # Script data processing
-|- DisasterResponse.db   # database to save clean data to
-
-- models
-|- train_classifier.py # Model training script
-|- classifier.pkl  # Model file
-
 # Instructions
 1. Run the following commands in the project's root directory to set up your database and model.
    - To run ETL pipeline that cleans data and stores in database
