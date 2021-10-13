@@ -1,6 +1,6 @@
 # Disaster-Response-Pipline
 # Table of Contents
-Project overview(#https://github.com/luobohaohao/Disaster-Response-Pipline/blob/main/README.md#project-overview)
+https://github.com/luobohaohao/Disaster-Response-Pipline/blob/main/README.md#project-overview
 
 Dependencies(#dependencies)
 
