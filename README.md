@@ -55,7 +55,7 @@ In Udacity Data Scientist course, I've learned and built on my data engineering 
 ![image](https://user-images.githubusercontent.com/30916036/137123772-14d56925-2fea-4674-a5a5-9fb5cfec05f9.png)
 
 2.When I typed a text message in the search box,it showed the classified result.The green highlighted categories are the predicted categories for this message.
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/30916036/137180443-751ae67c-2a92-497e-8040-3db2e167f956.png)
 
 # Model Evaluation
 Here is the model evaluation result for each category in test datasets.
