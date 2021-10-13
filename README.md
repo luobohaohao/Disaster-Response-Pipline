@@ -1,14 +1,14 @@
 # Disaster-Response-Pipline
 # Table of Contents
-[Project overview](https://github.com/luobohaohao/Disaster-Response-Pipline/blob/main/README.md#dependencies)
+[Project overview](#dependencies)
 
 [Dependencies](#dependencies)
 
-Folder Structure(#Folder Structure)
+[Folder Structure](#folder Structure)
 
-Execution Results(#Execution Results)
+[Execution Results](#Execution Results)
 
-Model Evaluation(#Model Evaluation)
+[Model Evaluation](#Model Evaluation)
 
 # Project overview
 In Udacity Data Scientist course, I've learned and built on my data engineering skills. In this project, I'll apply these skills to analyze disaster data from Figure Eight to build a model to classify disaster messages.These data all downloaded from workspace in Udacity data scientist course.All the steps I tried to follow the project specification:
