@@ -1,13 +1,13 @@
 # Disaster-Response-Pipline
 # Project overview
-In Udacity Data Scientist course, I've learned and built on my data engineering skills. In this project, I'll apply these skills to analyze disaster data from Figure Eight to build a model to classify disaster messages.These data all downloaded from workspace in Udacity data scientist course.All the steps I followed course guideline
+In Udacity Data Scientist course, I've learned and built on my data engineering skills. In this project, I'll apply these skills to analyze disaster data from Figure Eight to build a model to classify disaster messages.These data all downloaded from workspace in Udacity data scientist course.All the steps I tried to follow the project specification.
 
 # Dependencies
 1.Python 3
 
 2.Machine Learning Libraries: NumPy, Pandas, Sciki-Learn
 
-3.Natural Language Process Libraries: NLTK,re,
+3.Natural Language Process Libraries: NLTK,re
 
 4.SQLlite Database Libraqries: SQLalchemy
 
