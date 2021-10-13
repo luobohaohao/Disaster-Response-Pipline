@@ -33,8 +33,7 @@ In Udacity Data Scientist course, I've learned and built on my data engineering 
    - To run ML pipeline that trains classifier and saves
         `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
 
-2. Run the following command in the app's directory to run your web app.
-    `python app/run.py`
+2. Run the `python app/run.py` command in the app's directory to run your web app.
 
 3. Go to your local host to check your result
 
