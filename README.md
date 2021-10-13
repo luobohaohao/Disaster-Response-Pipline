@@ -1,6 +1,6 @@
 # Disaster-Response-Pipline
 # Table of Contents
-[Project overview](#dependencies)
+[Project overview](#project-overview)
 
 [Dependencies](#dependencies)
 
