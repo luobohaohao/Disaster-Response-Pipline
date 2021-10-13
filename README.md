@@ -40,6 +40,6 @@ In Udacity Data Scientist course, I've learned and built on my data engineering 
 ![image](https://user-images.githubusercontent.com/30916036/137123945-c685fecd-0da6-4678-a32b-0ebde491cdae.png)
 
 # Model Evaluation
-Here is the model model evaluation score for test datasets.
+Here is the model evaluation result for each category in test datasets.
 ![image](https://user-images.githubusercontent.com/30916036/137124192-2a55673f-1f5d-426f-a747-93d7ed8e2af8.png)
 
