@@ -1,8 +1,11 @@
 # Disaster-Response-Pipline
 # Project overview
 In Udacity Data Scientist course, I've learned and built on my data engineering skills. In this project, I'll apply these skills to analyze disaster data from Figure Eight to build a model to classify disaster messages.These data all downloaded from workspace in Udacity data scientist course.All the steps I tried to follow the project specification:
+
 1.Processing data, building an ETL pipeline to extract data from source, clean the data and save them in a SQLite DB
+
 2.Build a machine learning pipeline to train the which can classify text message in various categories
+
 3.Run a web app which can show model results in real time.You can also check the visualization result in the web
 
 # Dependencies
