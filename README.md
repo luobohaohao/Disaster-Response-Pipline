@@ -1,8 +1,8 @@
 # Disaster-Response-Pipline
 # Table of Contents
-Project overview(#Project overview)
+Project overview(#project-overview)
 
-Dependencies(#Dependencies)
+Dependencies(#dependencies)
 
 Folder Structure(#Folder Structure)
 
