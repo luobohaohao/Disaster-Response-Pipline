@@ -5,9 +5,9 @@ In Udacity Data Scientist course, I've learned and built on my data engineering 
 # Dependencies
 1.Python 3
 
-2.Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+2.Machine Learning Libraries: NumPy, Pandas, Sciki-Learn
 
-3.Natural Language Process Libraries: NLTK
+3.Natural Language Process Libraries: NLTK,re,
 
 4.SQLlite Database Libraqries: SQLalchemy
 
